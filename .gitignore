@@ -1,0 +1,91 @@
+# Compiled bytecode
+*.class
+
+# Package files
+*.war
+*.ear
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+
+# Logs and databases
+*.log
+*.sqlite
+
+# OS generated files (macOS & Windows)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# IDE - Eclipse
+.metadata/
+*.metadata
+*.classpath
+*.project
+*.settings/
+*.launch
+
+# Build directories - Maven
+target/
+
+# Windows image file caches
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# macOS files
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon\r\r
+
+# Thumbnails
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# IntelliJ/Eclipse specific
+*.swp
+*~
+*.sublime-workspace
+
+# Include JAR files in 'lib' or 'libs' folders (negate the earlier exclusion)
+!/lib/*.jar
+!/libs/*.jar
+
+# IntelliJ project files
+out/
+
+# Logs
+logs/
+
+# Compiled files
+*.jar
+
+# IDE and OS files
+.vscode/
